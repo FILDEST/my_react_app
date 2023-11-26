@@ -3,17 +3,8 @@ import './App.css'
 import SearchIcon  from './search.svg'
 import MovieCard from "./MovieCard";
 
-
 //4ee51111
 const API_URL ='http://www.omdbapi.com?apikey=4ee51111'
-
-const movie1  = {
-    "Title": "Amzing Spiderman Syndrome",
-    "Year": "2012",
-    "imdbID": "tt2586634",
-    "Type": "movie",
-    "Poster": "N/A"
-}
 
 const App=() =>  {
 
